@@ -1,0 +1,5 @@
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Common\obj\Debug\TYF.AppService.Common.csprojResolveAssemblyReference.cache
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Common\bin\Debug\TYF.AppService.Common.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Common\bin\Debug\TYF.AppService.Common.pdb
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Common\obj\Debug\TYF.AppService.Common.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Common\obj\Debug\TYF.AppService.Common.pdb

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYF.AppService.Common", "TYF.AppService.Common\TYF.AppService.Common.csproj", "{4763A0CB-8190-42E1-BEAD-6E6EA062D659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYF.AppService.Domain", "TYF.AppService.Domain\TYF.AppService.Domain.csproj", "{10FEE29C-35D2-4D2C-B6A8-6417B2007EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYF.AppService.Repositories", "TYF.AppService.Repositories\TYF.AppService.Repositories.csproj", "{B1BC7A7A-DF8F-439F-B0BF-57F6EA47E36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYF.AppService.Services", "TYF.AppService.Services\TYF.AppService.Services.csproj", "{AA1212EF-D849-44BE-9A96-84C3C63334A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TYF.AppService.Web", "TYF.AppService.Web\TYF.AppService.Web.csproj", "{296DCDCA-CD28-4447-AC6A-3B91735000F6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tomluo.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TYF.AppService.Common\\TYF.AppService.Common.csproj
+		SccProjectName1 = TYF.AppService.Common
+		SccLocalPath1 = TYF.AppService.Common
+		SccProjectUniqueName2 = TYF.AppService.Domain\\TYF.AppService.Domain.csproj
+		SccProjectName2 = TYF.AppService.Domain
+		SccLocalPath2 = TYF.AppService.Domain
+		SccProjectUniqueName3 = TYF.AppService.Repositories\\TYF.AppService.Repositories.csproj
+		SccProjectName3 = TYF.AppService.Repositories
+		SccLocalPath3 = TYF.AppService.Repositories
+		SccProjectUniqueName4 = TYF.AppService.Services\\TYF.AppService.Services.csproj
+		SccProjectName4 = TYF.AppService.Services
+		SccLocalPath4 = TYF.AppService.Services
+		SccProjectUniqueName5 = TYF.AppService.Web\\TYF.AppService.Web.csproj
+		SccProjectName5 = TYF.AppService.Web
+		SccLocalPath5 = TYF.AppService.Web
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4763A0CB-8190-42E1-BEAD-6E6EA062D659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4763A0CB-8190-42E1-BEAD-6E6EA062D659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4763A0CB-8190-42E1-BEAD-6E6EA062D659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4763A0CB-8190-42E1-BEAD-6E6EA062D659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FEE29C-35D2-4D2C-B6A8-6417B2007EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FEE29C-35D2-4D2C-B6A8-6417B2007EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FEE29C-35D2-4D2C-B6A8-6417B2007EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FEE29C-35D2-4D2C-B6A8-6417B2007EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BC7A7A-DF8F-439F-B0BF-57F6EA47E36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BC7A7A-DF8F-439F-B0BF-57F6EA47E36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BC7A7A-DF8F-439F-B0BF-57F6EA47E36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BC7A7A-DF8F-439F-B0BF-57F6EA47E36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1212EF-D849-44BE-9A96-84C3C63334A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1212EF-D849-44BE-9A96-84C3C63334A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1212EF-D849-44BE-9A96-84C3C63334A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1212EF-D849-44BE-9A96-84C3C63334A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296DCDCA-CD28-4447-AC6A-3B91735000F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296DCDCA-CD28-4447-AC6A-3B91735000F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296DCDCA-CD28-4447-AC6A-3B91735000F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296DCDCA-CD28-4447-AC6A-3B91735000F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

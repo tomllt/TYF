@@ -1,0 +1,7 @@
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Domain\bin\Debug\TYF.AppService.Domain.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Domain\bin\Debug\TYF.AppService.Domain.pdb
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Domain\bin\Debug\Castle.Core.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Domain\bin\Debug\Castle.Core.xml
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Domain\obj\Debug\TYF.AppService.Domain.csprojResolveAssemblyReference.cache
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Domain\obj\Debug\TYF.AppService.Domain.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Domain\obj\Debug\TYF.AppService.Domain.pdb

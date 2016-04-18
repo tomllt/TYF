@@ -1,0 +1,17 @@
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\TYF.AppService.Services.dll.config
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\TYF.AppService.Services.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\TYF.AppService.Services.pdb
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\Newtonsoft.Json.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\System.Net.Http.Formatting.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\System.Web.Http.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\System.Web.Http.WebHost.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\Newtonsoft.Json.xml
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\System.Net.Http.Formatting.xml
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\System.Web.Http.xml
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\System.Web.Http.WebHost.xml
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\obj\Debug\TYF.AppService.Services.csprojResolveAssemblyReference.cache
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\obj\Debug\TYF.AppService.Services.dll
+C:\Develop\TomFamilyServ\TYF.AppService\TYF.AppService.Services\obj\Debug\TYF.AppService.Services.pdb
